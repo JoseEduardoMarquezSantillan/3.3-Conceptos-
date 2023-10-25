@@ -22,7 +22,7 @@ Unidad:
 3
 
 Título del trabajo:
-3.1 Simulador PicoW
+3.3 Conceptos
 
 Estudiante:
 Marquez Santillan Jose Eduardo 21210395
@@ -36,14 +36,14 @@ Marquez Santillan Jose Eduardo 21210395
 	<p align=left>
 
 /*
- * Nombre del Archivo: Simulador PicoW
+ * Nombre del Archivo: Conceptos y hola mundo
  * Autor:   Marquez Santillan Jose Eduardo
  * Correo:  l21210395@tectijuana.edu.mx
  * Fecha:   24/10/2023
  * Curso:   Lenguajes de Interfaz, TECNM Campus ITT
  * 
  * Objetivo:
- * Este programa fue creado para adentrarse al como un Raspberry Pi pico W realiza un hola mundo con blink.
+ * Este programa .
  *
  * Historial de Revisiones:
  * 23/10/2023        Marquez Santillan Jose Eduardo
